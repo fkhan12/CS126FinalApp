@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "565527379234",
+    "firebase_url": "https://space-dodger-a3380.firebaseio.com",
+    "project_id": "space-dodger-a3380",
+    "storage_bucket": "space-dodger-a3380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565527379234:android:1f29e68c820275c5",
+        "android_client_info": {
+          "package_name": "com.example.farhankhan.spacegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565527379234-i8ahbif045bb8i0qsab7d8ntjmtd6nqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farhankhan.spacegame",
+            "certificate_hash": "6a1929fb42a2959ba1f72ff43f271292d5f3c555"
+          }
+        },
+        {
+          "client_id": "565527379234-f8gv25fh667e1qb2aesci7niidihkdgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBXfU3YnQDJ7YSuMdwfojaEiF7LYsXII"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565527379234-f8gv25fh667e1qb2aesci7niidihkdgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
