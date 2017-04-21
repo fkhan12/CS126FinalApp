@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Space Dodger</string>
+    <string name="pref_username_default">DEFAULTUSERNAME</string>
+    <string name="pref_highscore_default">-1</string>
+    <string name="pref_username_key">username</string>
+    <string name="pref_highscore_key">highscore</string>
 </resources>
